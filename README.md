@@ -1,2 +1,2 @@
-# Kitap-Okuma-Onerisi-Masa-st-
-Masaüstü uygulama olarak geliştirilmiştir
+# Kitap-Okuma-Onerisi-Masaustu
+Masaüstü uygulama olarak C# programalama dili uzerinden gelistirilmistir.
